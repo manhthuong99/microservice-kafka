@@ -1,0 +1,2 @@
+from .promotion_repository_impl import PromotionRepositoryImpl
+from .magento_api_singleton import Magento2ApiSingleton

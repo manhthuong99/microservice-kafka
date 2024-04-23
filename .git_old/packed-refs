@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+62c85dc513fb1625b2eb329270166bd73a080e3f refs/remotes/origin/m246
+289572d8322804a7a6b396442be372255220ef08 refs/remotes/origin/main
+289572d8322804a7a6b396442be372255220ef08 refs/remotes/origin/middleware
+f17dc37a6bb3ca3f2cc6ad442045c4bdd56938f2 refs/remotes/origin/odoo
+0dc6ee403a0d43343ae360819241334aa40cb4de refs/remotes/origin/shopdev
